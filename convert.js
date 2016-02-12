@@ -19,7 +19,10 @@ function createGeoJson(data) {
 			geometry:{type:"Point", coordinates:[+row.longitude, +row.latitude]},
 			properties:row
 		};
-		gj.features.push(feature);
+		if ((+row.longitude<180&&+row.longitude>0) && (+row.latitude<90&&+row.latitude>0)) {
+			gj.features.push(feature);
+		}
+		
 	});
 	fs.writeFile("hanok.geojson", JSON.stringify(gj, null, 4));
 }
