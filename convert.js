@@ -19,7 +19,7 @@ function createGeoJson(data) {
 			geometry:{type:"Point", coordinates:[+row.longitude, +row.latitude]},
 			properties:row
 		};
-		if ((+row.longitude<180&&+row.longitude>0) && (+row.latitude<90&&+row.latitude>0)) {
+		if ((+row.longitude<=180&&+row.longitude>=-180) && (+row.latitude<=90&&+row.latitude>=-90)) {
 			gj.features.push(feature);
 		}
 		

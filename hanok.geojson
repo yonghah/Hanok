@@ -49655,6 +49655,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "build_scale": "",
+                "title": " ",
+                "area": "0",
+                "thumbnail": "/data/portal/2013/201312181804436109624.jpg",
+                "mst_gbn": "HOUSE",
+                "address": " 서울특별시 성북구 동소문동2가  ",
+                "hanok_seq": "0",
+                "longitude": "",
+                "latitude": "",
+                "house_seq": "102188",
+                "hanok_url": "/main/portal/map.do?mstGbn=HOUSE&mid=1001&houseSeq=102188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     127.00871299999994,
                     37.5886473
                 ]
@@ -52098,6 +52121,29 @@
                 "latitude": "37.5928127",
                 "house_seq": "102295",
                 "hanok_url": "/main/portal/map.do?mstGbn=HOUSE&mid=1001&houseSeq=102295"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "build_scale": "",
+                "title": " ",
+                "area": "0",
+                "thumbnail": "/data/portal/2013/201312200058453328734.jpg",
+                "mst_gbn": "HOUSE",
+                "address": " 서울특별시 성북구 동소문동6가  ",
+                "hanok_seq": "0",
+                "longitude": "",
+                "latitude": "",
+                "house_seq": "102296",
+                "hanok_url": "/main/portal/map.do?mstGbn=HOUSE&mid=1001&houseSeq=102296"
             }
         },
         {
@@ -56713,6 +56759,29 @@
                 "latitude": "37.58845760000001",
                 "house_seq": "102497",
                 "hanok_url": "/main/portal/map.do?mstGbn=HOUSE&mid=1001&houseSeq=102497"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "build_scale": "",
+                "title": " ",
+                "area": "0",
+                "thumbnail": "/data/portal/2013/201312241142526325908.jpg",
+                "mst_gbn": "HOUSE",
+                "address": " 서울특별시 성북구 안암동1가  ",
+                "hanok_seq": "0",
+                "longitude": "",
+                "latitude": "",
+                "house_seq": "102498",
+                "hanok_url": "/main/portal/map.do?mstGbn=HOUSE&mid=1001&houseSeq=102498"
             }
         },
         {
